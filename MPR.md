@@ -1,16 +1,3 @@
-#USB microphone
-
-#Audio Recording + Editing
-
-#Audio Level
-
-#Listening
-
-#Finished
-
-#Winberg Video
-
-
 ## **Before Orientation Begins**
 
 *   _Check over all cable connections and make sure that nothing is missing or disconnected._
